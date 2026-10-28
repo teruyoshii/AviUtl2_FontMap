@@ -9,3 +9,6 @@ make_package.ps1
 
 # 配布用パッケージ (リリースにのみ添付する)
 *.au2pkg.zip
+
+# デモ動画の元ファイル (READMEには変換したimg/demo.webpを貼る)
+FontMap_Demo.mp4
